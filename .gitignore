@@ -1,0 +1,14 @@
+# Ignore the virtual environment folder
+lmvenc/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor or OS-specific files
+.idea/
+.vscode/
+.DS_Store
+*.log
